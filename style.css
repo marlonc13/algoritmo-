@@ -1,0 +1,14 @@
+body {
+    background-color: #323377;
+    font-family: Arial, sans-serif;
+    font-family: 'Young Serif', serif;
+    margin: 100;
+    padding: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#app {
+    text-align: center;
+}
